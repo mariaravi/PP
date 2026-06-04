@@ -100,7 +100,8 @@ The dataset contains information about:
 ├── images
 │
 ├── README.md
-└── requirements.txt
+├── pyproject.toml
+└── uv.lock
 ```
 
 ---
